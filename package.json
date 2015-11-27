@@ -1,0 +1,55 @@
+{
+  "name": "svenjsx-loader",
+  "version": "0.1.4",
+  "description": "SVENJSX-loader for Webpack",
+  "main": "index.js",
+  "dependencies": {
+    "svenjsx": "0.1.4",
+    "loader-utils": "0.2.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/svenanders/svenjsx-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "jsx",
+    "svenjsx",
+    "svenjs"
+  ],
+  "author": {
+    "name": "Sven A Robbestad",
+    "email": "robbestad@gmail.com"
+  },
+  "license": "ISC",
+  "gitHead": "d7c2f614faab6c8c4f4b1cd08452f69e881553a7",
+  "bugs": {
+    "url": "https://github.com/svenanders/svenjsx-loader/issues"
+  },
+  "homepage": "https://github.com/svenanders/svenjsx-loader#readme",
+  "_id": "svenjsx-loader@0.1.4",
+  "_shasum": "26e9a04dff6cab65089fbbd903d42b0ab056c213",
+  "_from": "svenjsx-loader@>=0.1.0 <0.2.0",
+  "_npmVersion": "2.13.2",
+  "_nodeVersion": "0.12.2",
+  "_npmUser": {
+    "name": "svenanders",
+    "email": "anders@robbestad.com"
+  },
+  "maintainers": [
+    {
+      "name": "svenanders",
+      "email": "anders@robbestad.com"
+    }
+  ],
+  "dist": {
+    "shasum": "26e9a04dff6cab65089fbbd903d42b0ab056c213",
+    "tarball": "http://registry.npmjs.org/svenjsx-loader/-/svenjsx-loader-0.1.4.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/svenjsx-loader/-/svenjsx-loader-0.1.4.tgz",
+  "readme": "ERROR: No README data found!"
+}

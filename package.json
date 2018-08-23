@@ -4,8 +4,8 @@
   "description": "SVENJSX-loader for Webpack",
   "main": "index.js",
   "dependencies": {
-    "svenjsx": "0.3.1",
-    "loader-utils": "0.2.6"
+    "loader-utils": "1.1.0",
+    "svenjsx": "2.0.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
